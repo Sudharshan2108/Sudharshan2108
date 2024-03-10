@@ -5,7 +5,7 @@ Software Engineer
 - 🔭 Here's my [portfolio](https://)                                                 
 - 🌱 I’m currently learning DSA 
 - 👯 I'm currently upskilling myself
-- 🤔 Completed Accenture Software Engineering Virtual Internship
+- 🤔 Currently learning Accenture Software Engineering Virtual Internship
 - 💬 Ask me about Tech
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />] [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dee2108)
